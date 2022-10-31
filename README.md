@@ -7,11 +7,11 @@ My areas of interest are **Web Design and iOS Mobile Dev**.
 I am currently studying Computer Science and minoring in Business at **Florida International University**. 
 
 My current tech stack:
-Python
-JavaScript
-Swift
-HTML & CSS/SASS
-MySQL
+- Python
+- JavaScript
+- Swift
+- HTML & CSS/SASS
+- MySQL
 
 Design skills:
 Secondary Research
