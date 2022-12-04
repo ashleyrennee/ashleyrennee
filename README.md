@@ -20,4 +20,4 @@ Design tools & skills:
 - Prototyping 
 - Figma
 
-You can email me @ashleyrenneea96@gmail.com , or on linkedin www.linkedin.com/in/ashleyrennee ♡
+You can email me @ashleyrenneea96@gmail.com , or PM on Linkedin www.linkedin.com/in/ashleyrennee ♡
