@@ -13,12 +13,11 @@ My current tech stack:
 - HTML & CSS/SASS
 - MySQL
 
-Design skills:
-Secondary Research
-Usability Testing
-Design Systems
-Prototyping 
-Figma
-Adobe XD
+Design tools & skills:
+- Secondary Research
+- Usability Testing
+- Design Systems
+- Prototyping 
+- Figma
 
 You can email me @ashleyrenneea96@gmail.com , or on linkedin www.linkedin.com/in/ashleyrennee ♡
