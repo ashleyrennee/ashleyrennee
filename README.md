@@ -1,4 +1,4 @@
-# I’m Ashley, a Software Engineer & Designer 🤍
+# I’m Ashley, a Software Engineer & Designer
 
 I explore possibilities at the intersection of art, community care, and tech. 
 
