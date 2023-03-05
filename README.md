@@ -5,7 +5,7 @@ I like to build scalable solutions that integrate user needs and business goals,
 My areas of interest are **Web Design and iOS Mobile Dev**.
 I am currently studying Computer Science and minoring in Business at **Florida International University**. 
 
-# Repo Guide 
+## Repo Guide 
 In my repository, you will see a mix of coursework, labs, and personal projects.
 
 
