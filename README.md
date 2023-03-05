@@ -6,19 +6,22 @@ I like to build scalable solutions that integrate user needs and business goals,
 My areas of interest are **Web Design and iOS Mobile Dev**.
 I am currently studying Computer Science and minoring in Business at **Florida International University**. 
 
-## My current tech stack
+## Programming
 
 - Python
 - JavaScript
 - Swift
+- C
 - HTML & CSS/SASS
 - MySQL
+- MongoDB
 
-## Design tools & skills
+## Design 
 
 - Secondary Research
 - Usability Testing
 - Design Systems
+- UI
 - Prototyping 
 - Figma
 
