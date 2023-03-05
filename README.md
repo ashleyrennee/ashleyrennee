@@ -7,7 +7,11 @@ I am currently studying Computer Science and minoring in Business at **Florida I
 
 ## Repo Guide 
 In my repository, you will see a mix of coursework, labs, and personal projects.
+My ⭐️ repositories are divided into two list: CodePath and Personal
 
+### CodePath
+
+### Personal
 
 ## Programming Skills
 - Python
