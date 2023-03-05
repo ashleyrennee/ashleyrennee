@@ -1,4 +1,4 @@
-# <span style="color:blue">*Hi, I'm Ash a Programmer and Designer*</span> 💻 
+# Hi, I'm Ash a Programmer and Designer  💻 
 I explore possibilities at the intersection of art, community care, and tech. 
 
 I like to build scalable solutions that integrate user needs and business goals, with accessibility and equity being foundational components of my work as a Designer and Programmer. 
