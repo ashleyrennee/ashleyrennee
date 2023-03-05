@@ -5,7 +5,11 @@ I like to build scalable solutions that integrate user needs and business goals,
 My areas of interest are **Web Design and iOS Mobile Dev**.
 I am currently studying Computer Science and minoring in Business at **Florida International University**. 
 
-## Programming
+# Repo Guide 
+In my repository, you will see a mix of coursework, labs, and personal projects.
+
+
+## Programming Skills
 - Python
 - JavaScript
 - Swift
@@ -14,12 +18,16 @@ I am currently studying Computer Science and minoring in Business at **Florida I
 - MySQL
 - MongoDB
 
-## Design 
+## Design Skills
 - UI
 - Secondary Research
 - Usability Testing
 - Design Systems
 - Prototyping 
 - Figma
+
+
+
+
 
 You can email me @ashleyrenneea96@gmail.com , or PM on Linkedin www.linkedin.com/in/ashleyrennee ♡
