@@ -11,9 +11,9 @@ In my repository, you will see a mix of coursework, labs, and personal projects.
 My ⭐️ repositories are divided into two list: CodePath and Personal
 
 ## Programming Skills
+- Swift
 - Python
 - JavaScript
-- Swift
 - C
 - HTML & CSS/SASS
 - MySQL
