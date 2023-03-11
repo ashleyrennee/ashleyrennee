@@ -4,7 +4,7 @@ I explore possibilities at the intersection of art, community care, and tech.
 I like to build scalable solutions that integrate user needs and business goals, with accessibility and equity being foundational components of my work as a Designer and Programmer. 
 
 My areas of interest are **iOS Mobile Dev and Web Design**.
-I am currently studying Computer Science and minoring in Business at **Florida International University**. 
+I am currently studying Computer Science and minoring in Business at **Florida International University**. Additionally, I obtained a certificate for UX Design from General Assembly.
 
 ## Repo Guide 
 In my repository, you will see a mix of coursework, labs, and personal projects.
