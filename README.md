@@ -12,7 +12,6 @@ In my repository, you will see a mix of coursework, labs, and personal projects.
 ## Programming Skills
 - Swift
 - Python
-- JavaScript
 - C
 - HTML & CSS/SASS
 - MySQL
