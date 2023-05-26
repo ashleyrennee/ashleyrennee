@@ -12,9 +12,9 @@ In my repository, you will see a mix of coursework, labs, and personal projects.
 ## Programming Skills
 - Swift
 - Python
-- C
+- Java
 - HTML & CSS/SASS
-- MySQL
+- SQL
 - MongoDB
 
 ## Design Skills
