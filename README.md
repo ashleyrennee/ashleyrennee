@@ -15,7 +15,7 @@ In my repository, you will see a mix of coursework, labs, and personal projects.
 - Java
 - HTML & CSS/SASS
 - SQL
-- MongoDB
+- MongoDB (MQL)
 
 ## Design Skills
 - UI
