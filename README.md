@@ -3,7 +3,7 @@ I explore possibilities at the intersection of art, community care, and tech.
 
 I like to build scalable solutions that integrate user needs and business goals, with accessibility and equity being foundational components of my work as a Designer and Programmer. 
 
-My areas of interest are **iOS Mobile Dev, Web Development, and Design**.
+My areas of interest are **Application Development,iOS Mobile Dev, and Design**.
 I am currently studying Computer Science and minoring in Business at **Florida International University**.
 
 ## Programming Skills
